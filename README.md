@@ -8,8 +8,8 @@
     "title": "Update Required v7.7.4 🔥 New",
     "description": "We have released a brand new update for SnapEdit with exclusive premium features and bug fixes. Please download the latest version to continue using the app.",
     "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2030-12-31",
+    "isExpired": True,
+    "expiryDate": "2026-9-31",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update Now"
   }
